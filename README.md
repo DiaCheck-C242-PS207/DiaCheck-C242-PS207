@@ -10,30 +10,10 @@ DiaCheck is designed to be a public health partner, helping individuals recogniz
 
 ## Credits
 
-1. Akhmad Nuvi Fadil Rizaldi <br>
-   - [LinkedIn](https://www.linkedin.com/in/akhmad-nuvi-fadil-rizaldi-4392b6329/)
-   - [GitHub](https://github.com/FadilXenttt)
-   
-2. Hikmal Falah Agung Maulana <br>
-   - [LinkedIn](https://www.linkedin.com/in/hikmal-falah-agung-maulana/)
-   - [GitHub](https://github.com/Superior231/)
-   - [Portofolio](https://hikmal-falah.com/)
-   
-3. Wahyu <br>
-   - [LinkedIn](https://www.linkedin.com/in/wahyu-why24/)
-   - [GitHub](https://github.com/wahyuwinanta)
-     
-4. Deny Firmansyach <br>
-   - [LinkedIn](https://www.linkedin.com/in/deny-firmansyach-194783294/)
-   - [GitHub](https://github.com/denyfirmansyach)
-     
-5. Errie Tri Armawan <br>
-   - [GitHub](https://github.com/errietriArmawan)
-     
-6. Aysyah Noor Shobah <br>
-   - [LinkedIn](https://www.linkedin.com/in/aysyah-noor-shobah/)
-   - [GitHub](https://github.com/ayyns)
-     
-7. Hasan Abdu Rahman <br>
-   - [LinkedIn](https://www.linkedin.com/in/hasan-abdu-rahman/)
-   - [GitHub](https://github.com/Hasan1194)
+1. Akhmad Nuvi Fadil Rizaldi
+2. Hikmal Falah Agung Maulana
+3. Wahyu
+4. Deny Firmansyach
+5. Errie Tri Armawan
+6. Aysyah Noor Shobah
+7. Hasan Abdu Rahman
