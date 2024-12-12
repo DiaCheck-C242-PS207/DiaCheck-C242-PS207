@@ -5,7 +5,7 @@ DiaCheck is designed to be a public health partner, helping individuals recogniz
 
 ## Where can you find DiaChek?
 
-- Download DiaCheck App: -
+- Download DiaCheck App: https://drive.google.com/drive/folders/1vvmI01LDKr24uiafyKBnihc-HMKTSGxt?usp=drive_link
 - Website: https://diacheck.hikmal-falah.com/
 
 ## Credits
